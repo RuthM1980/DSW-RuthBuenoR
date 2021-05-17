@@ -50,6 +50,25 @@ aside{
     background-color:beige;
     color: black;
 }
+@media (min-width:576px){
+    .aside {
+        max-width: 540px;
+    }
+}
+@media(min-width:768px){
+    .aside{
+        max-width: 720px;
+    }
+}
+@media(min-width:992px){
+    .aside{
+        max-width: 960px;
+    }
+}
+@media(min-width:1200px){
+    .aside{
+        max-width: 1140px;
+    }
 footer{
     padding: 10px;
     background-color: rgb(207, 173, 109) ;
@@ -114,5 +133,6 @@ footer{
 }
 .footer{
     width: 100%;
+}
 }
 }
