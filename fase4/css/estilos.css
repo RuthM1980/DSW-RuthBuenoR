@@ -99,7 +99,7 @@ footer{
         max-width: 1140px;
     }
 }
-@media screen  and (max-width:780px) and (max-width:1024){
+@media screen  and (max-width:780px) and (max-width:1024px){
     .header{
         background-color: paleturquoise;
     }
@@ -110,7 +110,7 @@ footer{
         width: 100%;
     }
 }
-@media screen  and (max-width:480px) and (max-width:780){
+@media screen  and (max-width:480px) and (max-width:780px){
     .header{
         background-color: paleturquoise;
     }
